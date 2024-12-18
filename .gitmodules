@@ -1,3 +1,6 @@
 [submodule "terraform-aws"]
 	path = terraform-aws
 	url = https://github.com/Rajib-Mardi/terraform-aws.git
+[submodule "ansible"]
+	path = ansible
+	url = https://github.com/Rajib-Mardi/ansible.git
